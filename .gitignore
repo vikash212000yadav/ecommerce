@@ -1,0 +1,4 @@
+.superuser.txt
+*.pyc
+__pycache__/
+.idea/
